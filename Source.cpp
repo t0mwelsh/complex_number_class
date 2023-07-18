@@ -1,6 +1,3 @@
-// PHYS 30762 Programming in C++
-// Assignment 4
-
 // Class for complex numbers
 
 #include<iostream>
